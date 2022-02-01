@@ -1,4 +1,7 @@
 # Womring Up - worm game version 4
 
-Developer Moonsung Jeong
-Designer Niamh Dillingham
+made by
+
+Moonsung Jeong (Developer)
+
+Designer Niamh Dillingham (Designer)
